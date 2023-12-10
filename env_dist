@@ -1,0 +1,11 @@
+# LOGS_PATH=
+# OUT_PATH=
+
+JSON_USERS_FILE=users-out.json
+CSV_REPORT_FILE=report-out.csv
+XLSX_REPORT_FILE=report-out.xlsx
+MAX_CONNECTION_FILE=maximum_of_total_connections.png
+MEAN_CONNECTION_FILE=mean_of_total_connections.png
+
+FIRST_DATE=2021-04-12  # 2021-9-25
+FINAL_DATE=2021-06-21  # 2021-10-26

@@ -1,0 +1,234 @@
+2021.10.03-11:03:42 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged out, 
+2021.10.03-11:06:21 <192.168.3.1>: l2tp,ppp,info,account vpn_panfilov logged out, 
+2021.10.03-11:13:40 <192.168.3.1>: l2tp,ppp,info,account vpn_frolov logged in, 
+2021.10.03-11:27:13 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged in, 
+2021.10.03-11:27:45 <192.168.3.1>: l2tp,ppp,info,account vpn_nikiforov logged in, 
+2021.10.03-11:32:22 <192.168.2.1>: l2tp,ppp,info,account vpn_dorofeev logged in, 
+2021.10.03-11:38:32 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged out, 
+2021.10.03-11:39:44 <192.168.2.1>: l2tp,ppp,info,account vpn_zhukov logged in, 
+2021.10.03-11:40:32 <192.168.3.1>: l2tp,ppp,info,account vpn_trofimov logged in, 
+2021.10.03-11:49:22 <192.168.2.1>: l2tp,ppp,info,account vpn_lazarev logged out, 
+2021.10.03-11:49:44 <192.168.2.1>: l2tp,ppp,info,account vpn_dorofeev logged out, 
+2021.10.03-11:51:24 <192.168.2.1>: l2tp,ppp,info,account vpn_kalinin logged out, 
+2021.10.03-11:55:26 <192.168.3.1>: l2tp,ppp,info,account vpn_trofimov logged out, 
+2021.10.03-11:58:24 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged out, 
+2021.10.03-12:03:41 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged in, 
+2021.10.03-12:11:44 <192.168.2.1>: l2tp,ppp,info,account vpn_zhukov logged out, 
+2021.10.03-12:18:27 <192.168.3.1>: l2tp,ppp,info,account vpn_shiriaev logged out, 
+2021.10.03-12:18:55 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged out, 
+2021.10.03-12:21:03 <192.168.2.1>: l2tp,ppp,info,account vpn_ponomaryov logged out, 
+2021.10.03-12:24:31 <192.168.2.1>: l2tp,ppp,info,account vpn_zhukov logged in, 
+2021.10.03-12:27:36 <192.168.3.1>: l2tp,ppp,info,account vpn_lukin logged out, 
+2021.10.03-12:41:24 <192.168.2.1>: l2tp,ppp,info,account vpn_ponomaryov logged in, 
+2021.10.03-12:41:51 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged out, 
+2021.10.03-12:48:21 <192.168.3.1>: l2tp,ppp,info,account vpn_blinov logged in, 
+2021.10.03-12:51:12 <192.168.2.1>: l2tp,ppp,info,account vpn_tcvetkov logged out, 
+2021.10.03-12:52:09 <192.168.2.1>: l2tp,ppp,info,account vpn_kalinin logged in, 
+2021.10.03-13:04:15 <192.168.3.1>: l2tp,ppp,info,account vpn_frolov logged out, 
+2021.10.03-13:09:51 <192.168.3.1>: l2tp,ppp,info,account vpn_panfilov logged in, 
+2021.10.03-13:21:36 <192.168.2.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.2.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.3.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.3.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.1.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:21:36 <192.168.1.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-13:28:14 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged in, 
+2021.10.03-13:37:08 <192.168.3.1>: l2tp,ppp,info,account vpn_zhdanov logged out, 
+2021.10.03-13:44:47 <192.168.2.1>: l2tp,ppp,info,account vpn_zhukov logged out, 
+2021.10.03-13:47:39 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-13:49:56 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged out, 
+2021.10.03-13:50:18 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged in, 
+2021.10.03-13:56:37 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged in, 
+2021.10.03-14:00:31 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:02:17 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-14:02:36 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged out, 
+2021.10.03-14:09:53 <192.168.1.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:53 <192.168.2.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:53 <192.168.3.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:53 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:54 <192.168.2.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:54 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:54 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:54 <192.168.1.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:54 <192.168.3.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:09:54 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-14:14:20 <192.168.3.1>: l2tp,ppp,info,account vpn_lukin logged in, 
+2021.10.03-14:15:36 <192.168.3.1>: l2tp,ppp,info,account vpn_lukin logged out, 
+2021.10.03-14:15:40 <192.168.3.1>: l2tp,ppp,info,account vpn_lukin logged in, 
+2021.10.03-14:52:12 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged in, 
+2021.10.03-14:52:22 <192.168.2.1>: l2tp,ppp,info,account vpn_riabov logged in, 
+2021.10.03-14:59:36 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged out, 
+2021.10.03-15:00:34 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged in, 
+2021.10.03-15:21:44 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged out, 
+2021.10.03-15:24:45 <192.168.3.1>: l2tp,ppp,info,account vpn_frolov logged in, 
+2021.10.03-15:26:50 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged out, 
+2021.10.03-15:33:36 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged in, 
+2021.10.03-15:37:07 <192.168.3.1>: l2tp,ppp,info,account vpn_frolov logged out, 
+2021.10.03-15:41:49 <192.168.2.1>: l2tp,ppp,info,account vpn_tcvetkov logged in, 
+2021.10.03-15:46:06 <192.168.2.1>: l2tp,ppp,info,account vpn_riabov logged out, 
+2021.10.03-16:02:58 <192.168.3.1>: l2tp,ppp,info,account vpn_isakov logged in, 
+2021.10.03-16:12:31 <192.168.2.1>: l2tp,ppp,info,account vpn_sidorov logged out, 
+2021.10.03-16:13:52 <192.168.2.1>: l2tp,ppp,info,account vpn_sidorov logged in, 
+2021.10.03-16:19:01 <192.168.1.1>: l2tp,ppp,info,account vpn_titov logged out, 
+2021.10.03-16:25:04 <192.168.2.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.2.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.3.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.3.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.1.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.1.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:25:04 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:26:00 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged out, 
+2021.10.03-16:26:04 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged in, 
+2021.10.03-16:27:07 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:27:12 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:14 <192.168.1.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:14 <192.168.2.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:14 <192.168.1.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:14 <192.168.3.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:14 <192.168.2.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:14 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:15 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:15 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:15 <192.168.3.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:15 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-16:28:28 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged out, 
+2021.10.03-16:29:26 <192.168.3.1>: l2tp,ppp,info,account vpn_panfilov logged out, 
+2021.10.03-16:30:14 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-16:33:31 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged in, 
+2021.10.03-16:50:14 <192.168.2.1>: l2tp,ppp,info,account vpn_belousov logged out, 
+2021.10.03-16:50:15 <192.168.2.1>: l2tp,ppp,info,account vpn_belousov logged in, 
+2021.10.03-16:53:31 <192.168.2.1>: l2tp,ppp,info,account vpn_dmitriev logged out, 
+2021.10.03-16:56:58 <192.168.2.1>: l2tp,ppp,info,account vpn_dmitriev logged in, 
+2021.10.03-17:04:02 <192.168.2.1>: l2tp,ppp,info,account vpn_belousov logged out, 
+2021.10.03-17:12:49 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged out, 
+2021.10.03-17:13:47 <192.168.2.1>: l2tp,ppp,info,account vpn_tcvetkov logged out, 
+2021.10.03-17:17:18 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged out, 
+2021.10.03-17:19:42 <192.168.3.1>: l2tp,ppp,info,account vpn_shestakov logged out, 
+2021.10.03-17:22:13 <192.168.3.1>: l2tp,ppp,info,account vpn_zhdanov logged in, 
+2021.10.03-17:40:55 <192.168.2.1>: l2tp,ppp,info,account vpn_kalinin logged out, 
+2021.10.03-17:49:50 <192.168.3.1>: l2tp,ppp,info,account vpn_frolov logged in, 
+2021.10.03-17:55:38 <192.168.3.1>: l2tp,ppp,info,account vpn_zhdanov logged out, 
+2021.10.03-17:57:23 <192.168.3.1>: l2tp,ppp,info,account vpn_isakov logged out, 
+2021.10.03-18:05:44 <192.168.3.1>: l2tp,ppp,info,account vpn_lukin logged out, 
+2021.10.03-18:09:11 <192.168.3.1>: l2tp,ppp,info,account vpn_shestakov logged in, 
+2021.10.03-18:22:58 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged in, 
+2021.10.03-18:25:23 <192.168.1.1>: l2tp,ppp,info,account vpn_baranov logged in, 
+2021.10.03-18:27:52 <192.168.3.1>: l2tp,ppp,info,account vpn_frolov logged out, 
+2021.10.03-18:33:27 <192.168.2.1>: l2tp,ppp,info,account vpn_ponomaryov logged out, 
+2021.10.03-18:36:00 <192.168.2.1>: l2tp,ppp,info,account vpn_poliakov logged in, 
+2021.10.03-18:47:47 <192.168.2.1>: l2tp,ppp,info,account vpn_lazarev logged in, 
+2021.10.03-18:53:53 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged out, 
+2021.10.03-18:56:26 <192.168.2.1>: l2tp,ppp,info,account vpn_poliakov logged out, 
+2021.10.03-19:04:11 <192.168.3.1>: l2tp,ppp,info,account vpn_nikiforov logged out, 
+2021.10.03-19:12:41 <192.168.1.1>: l2tp,ppp,info,account vpn_titov logged in, 
+2021.10.03-19:14:12 <192.168.2.1>: l2tp,ppp,info,account vpn_tcvetkov logged in, 
+2021.10.03-19:19:32 <192.168.1.1>: l2tp,ppp,info,account vpn_baranov logged out, 
+2021.10.03-19:30:46 <192.168.3.1>: l2tp,ppp,info,account vpn_shestakov logged out, 
+2021.10.03-19:32:09 <192.168.3.1>: l2tp,ppp,info,account vpn_nikiforov logged in, 
+2021.10.03-19:37:26 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged in, 
+2021.10.03-19:58:04 <192.168.1.1>: l2tp,ppp,info,account vpn_titov logged out, 
+2021.10.03-20:04:25 <192.168.2.1>: l2tp,ppp,info,account vpn_sidorov logged out, 
+2021.10.03-20:17:31 <192.168.1.1>: l2tp,ppp,info,account vpn_kudriavtcev logged in, 
+2021.10.03-20:22:59 <192.168.1.1>: l2tp,ppp,info,account vpn_kudriavtcev logged out, 
+2021.10.03-20:24:33 <192.168.1.1>: l2tp,ppp,info,account vpn_kudriavtcev logged in, 
+2021.10.03-20:29:20 <192.168.1.1>: l2tp,ppp,info,account vpn_kudriavtcev logged out, 
+2021.10.03-20:30:22 <192.168.3.1>: l2tp,ppp,info,account vpn_suhanov logged in, 
+2021.10.03-20:33:48 <192.168.2.1>: l2tp,ppp,info,account vpn_poliakov logged in, 
+2021.10.03-20:44:18 <192.168.2.1>: l2tp,ppp,info,account vpn_tcvetkov logged out, 
+2021.10.03-20:50:33 <192.168.2.1>: l2tp,ppp,info,account vpn_tcvetkov logged in, 
+2021.10.03-20:53:32 <192.168.3.1>: l2tp,ppp,info,account vpn_suvorov logged in, 
+2021.10.03-21:09:02 <192.168.3.1>: l2tp,ppp,info,account vpn_blinov logged out, 
+2021.10.03-21:10:32 <192.168.3.1>: l2tp,ppp,info,account vpn_afanasev logged in, 
+2021.10.03-21:15:47 <192.168.2.1>: l2tp,ppp,info,account vpn_tcvetkov logged out, 
+2021.10.03-21:28:23 <192.168.3.1>: l2tp,ppp,info,account vpn_afanasev logged out, 
+2021.10.03-21:50:22 <192.168.1.1>: l2tp,ppp,info,account vpn_iakovlev logged out, 
+2021.10.03-21:50:26 <192.168.1.1>: l2tp,ppp,info,account vpn_kulikov logged out, 
+2021.10.03-21:50:31 <192.168.1.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:31 <192.168.1.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:31 <192.168.2.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:31 <192.168.2.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:32 <192.168.3.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:32 <192.168.3.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:32 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:32 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:32 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:32 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:50:52 <192.168.1.1>: l2tp,ppp,info,account vpn_gerasimov logged out, 
+2021.10.03-21:51:44 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:52:52 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-21:55:20 <192.168.3.1>: l2tp,ppp,info,account vpn_gerasimov logged in, 
+2021.10.03-21:56:43 <192.168.3.1>: l2tp,ppp,info,account vpn_gerasimov logged out, 
+2021.10.03-21:57:04 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:04 <192.168.2.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:04 <192.168.1.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:04 <192.168.3.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:04 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:04 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:04 <192.168.2.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:04 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:05 <192.168.1.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:05 <192.168.3.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:57:07 <192.168.3.1>: l2tp,ppp,info,account vpn_gerasimov logged in, 
+2021.10.03-21:57:12 <192.168.1.1>: l2tp,ppp,info,account vpn_kulikov logged in, 
+2021.10.03-21:57:51 <192.168.1.1>: l2tp,ppp,info,account vpn_iakovlev logged in, 
+2021.10.03-21:58:08 <192.168.1.1>: l2tp,ppp,info,account vpn_gerasimov logged in, 
+2021.10.03-21:58:59 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.03-21:59:06 <192.168.4.1>: system,info,account user Admin-A logged out from 192.168.1.100 
+2021.10.03-22:17:44 <192.168.3.1>: l2tp,ppp,info,account vpn_gerasimov logged out, 
+2021.10.03-22:17:58 <192.168.3.1>: l2tp,ppp,info,account vpn_kudriashov logged out, 
+2021.10.03-22:43:51 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged out, 
+2021.10.03-22:44:02 <192.168.3.1>: l2tp,ppp,info,account vpn_suhanov logged out, 
+2021.10.03-22:44:29 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged in, 
+2021.10.03-22:58:51 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged out, 
+2021.10.03-23:27:19 <192.168.3.1>: l2tp,ppp,info,account vpn_suvorov logged out, 
+2021.10.03-23:33:56 <192.168.2.1>: l2tp,ppp,info,account vpn_lazarev logged out, 
+2021.10.04-00:33:13 <192.168.2.1>: l2tp,ppp,info,account vpn_dmitriev logged out, 
+2021.10.04-01:36:22 <192.168.3.1>: l2tp,ppp,info,account vpn_nikiforov logged out, 
+2021.10.04-04:10:11 <192.168.2.1>: l2tp,ppp,info,account vpn_poliakov logged out, 
+2021.10.04-06:47:15 <192.168.3.1>: l2tp,ppp,info,account vpn_zhdanov logged in, 
+2021.10.04-07:00:00 <192.168.2.1>: l2tp,ppp,info,account vpn_medvedev logged in, 
+2021.10.04-07:47:41 <192.168.3.1>: l2tp,ppp,info,account vpn_gorshkov logged in, 
+2021.10.04-08:02:43 <192.168.2.1>: l2tp,ppp,info,account vpn_sidorov logged in, 
+2021.10.04-08:19:36 <192.168.2.1>: l2tp,ppp,info,account vpn_dorofeev logged in, 
+2021.10.04-08:21:20 <192.168.3.1>: l2tp,ppp,info,account vpn_lobanov logged in, 
+2021.10.04-08:22:26 <192.168.2.1>: l2tp,ppp,info,account vpn_ponomaryov logged in, 
+2021.10.04-08:22:28 <192.168.2.1>: l2tp,ppp,info,account vpn_dorofeev logged out, 
+2021.10.04-08:22:35 <192.168.3.1>: l2tp,ppp,info,account vpn_suvorov logged in, 
+2021.10.04-08:24:09 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged in, 
+2021.10.04-08:27:10 <192.168.2.1>: l2tp,ppp,info,account vpn_belousov logged in, 
+2021.10.04-08:27:14 <192.168.2.1>: l2tp,ppp,info,account vpn_dorofeev logged in, 
+2021.10.04-08:28:15 <192.168.2.1>: l2tp,ppp,info,account vpn_kalinin logged in, 
+2021.10.04-08:34:35 <192.168.3.1>: l2tp,ppp,info,account vpn_rodionov logged in, 
+2021.10.04-08:36:00 <192.168.3.1>: l2tp,ppp,info,account vpn_shiriaev logged in, 
+2021.10.04-08:37:34 <192.168.2.1>: l2tp,ppp,info,account vpn_dorofeev logged out, 
+2021.10.04-08:44:46 <192.168.1.1>: l2tp,ppp,info,account vpn_stepanov logged in, 
+2021.10.04-08:51:18 <192.168.2.1>: l2tp,ppp,info,account vpn_matveev logged in, 
+2021.10.04-08:52:59 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged out, 
+2021.10.04-08:53:50 <192.168.3.1>: l2tp,ppp,info,account vpn_ovchinnikov logged in, 
+2021.10.04-08:58:04 <192.168.3.1>: l2tp,ppp,info,account vpn_shestakov logged in, 
+2021.10.04-08:58:21 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged in, 
+2021.10.04-08:59:03 <192.168.2.1>: l2tp,ppp,info,account vpn_poliakov logged in, 
+2021.10.04-09:02:10 <192.168.4.1>: system,info,account user Admin-A logged in from 192.168.1.100 
+2021.10.04-09:29:30 <192.168.2.1>: l2tp,ppp,info,account vpn_dmitriev logged in, 
+2021.10.04-09:37:26 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged out, 
+2021.10.04-09:41:42 <192.168.3.1>: l2tp,ppp,info,account vpn_zhdanov logged out, 
+2021.10.04-09:43:48 <192.168.3.1>: l2tp,ppp,info,account vpn_zhdanov logged in, 
+2021.10.04-09:48:23 <192.168.3.1>: l2tp,ppp,info,account vpn_kudriashov logged in, 
+2021.10.04-09:50:59 <192.168.3.1>: l2tp,ppp,info,account vpn_suvorov logged out, 
+2021.10.04-09:52:01 <192.168.3.1>: l2tp,ppp,info,account vpn_isakov logged in, 
+2021.10.04-09:54:32 <192.168.3.1>: l2tp,ppp,info,account vpn_suvorov logged in, 
+2021.10.04-10:23:28 <192.168.3.1>: l2tp,ppp,info,account vpn_suvorov logged out, 
+2021.10.04-10:27:00 <192.168.3.1>: l2tp,ppp,info,account vpn_rodionov logged out, 
+2021.10.04-10:32:54 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged in, 
+2021.10.04-10:33:48 <192.168.3.1>: l2tp,ppp,info,account vpn_shiriaev logged out, 
+2021.10.04-10:37:07 <192.168.3.1>: l2tp,ppp,info,account vpn_shiriaev logged in, 
+2021.10.04-10:38:12 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged out, 
+2021.10.04-10:40:48 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged in, 
+2021.10.04-10:58:12 <192.168.1.1>: l2tp,ppp,info,account vpn_gusev logged out, 
